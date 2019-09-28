@@ -1,0 +1,15 @@
+Dependencies for Project 'measuring_frequency', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_TM4C123.s)(0x5A32847F)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d)
+F (.\timer_init.c)(0x5A328A5B)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\timer_init.o --omf_browse .\timer_init.crf --depend .\timer_init.d)
+I (C:/Keil/labware/inc/tm4c123gh6pm.h)(0x5388525A)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+F (.\Calculating_period.c)(0x5A32A1F5)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\calculating_period.o --omf_browse .\calculating_period.crf --depend .\calculating_period.d)
+I (C:/Keil/labware/inc/tm4c123gh6pm.h)(0x5388525A)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+F (.\SYSTICK_init.c)(0x5A32883A)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\systick_init.o --omf_browse .\systick_init.crf --depend .\systick_init.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:/Keil/labware/inc/tm4c123gh6pm.h)(0x5388525A)
+F (.\Calculating_freq.c)(0x5A32A1F5)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\calculating_freq.o --omf_browse .\calculating_freq.crf --depend .\calculating_freq.d)
+I (C:/Keil/labware/inc/tm4c123gh6pm.h)(0x5388525A)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (functions.h)(0x5A328781)
